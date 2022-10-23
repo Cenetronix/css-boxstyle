@@ -1,0 +1,113 @@
+
+
+body{
+    margin: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.logo{
+    width: 150px;
+    height: 25;
+    background-color: orange;
+    display: inline-block;
+    float: left;
+    padding:10px;
+    margin: 10px;
+}
+.header{
+    width:640px;
+    height: 25px;
+    background-color: pink;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.sidebar{
+    width:150px;
+    height:155px;
+    background-color: green;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 5px;
+    float: left;
+}
+.promo{
+    width:450px;
+    height: 25px;
+    background-color: blue;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.article{
+    position:absolute;
+    width:150px;
+    height: 25px;
+    background-color:gray;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.news{
+    width: 150px;
+    height: 25px;
+    background-color: orangered;
+    display:inline-block;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+
+    
+}
+
+.content{
+    width: 260px;
+    height: 85px;
+    background-color: burlywood;
+    pad: 10px;
+    margin: 10px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+.article-one{
+    position:absolute;
+    width:150px;
+    height: 25px;
+    background-color:orange;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+.ads{
+    width: 150px;
+    height: 25px;
+    background-color:pink;
+    display:inline-block;
+    float: left;
+    position: relative;
+    top:60px ;
+    right:490px;
+    
+    padding: 10px;
+    margin: 10px;
+}
+
+.article-two{
+    position: absolute;
+    width:150px;
+    height: 25px;
+    background-color:green;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    bottom: 700px;
+}
