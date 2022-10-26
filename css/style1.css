@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    }
+
+.header{
+    background-color: black;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.img{
+    font-weight: bold;
+    font-size:xx-large;
+    background-color:rgb(126, 126, 218);
+    color: white;
+    height: 150px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.sidebar{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width:100px;
+    height: 600px;
+    float: left;
+}
+
+.main{
+    background-color: rgb(24, 24, 75);
+    color: white;
+    text-align: center;
+    height:100px;
+    padding: 120px;
+   
+}
+
+.banner{
+    background-color: rgb(218, 179, 52);
+    color: white;
+    text-align: center;
+    height:100px;
+    padding: 30px;
+}
+
+.zeljka{
+    background-color: rgb(52, 218, 149);
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    float: left;
+
+}
+
+.img-1{
+    background-color: rgb(169, 196, 245);
+    color: white;
+    text-align: center;
+    width: 1000px;
+    height: 100px;
+
+}
+
+.footer{
+    background-color: rgb(95, 183, 255);
+    color: white;
+    text-align: center;
+}
+
+
